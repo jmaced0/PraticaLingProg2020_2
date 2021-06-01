@@ -29,6 +29,8 @@ remoção de dados diários através de opção do menu.
 Dica: Verifique a possibilidade do uso da classe vector para armazenamento dos objetos
 da classe Estadual e para armazenamento dos dados da série histórica pelos estados.
 
+Observações do autor:
+
 Obs.: O código foi desenvolvido e testado no Linux, distribuição Ubuntu 20.04. Os dados de cada estado são gerados aleatoriamente a cada execução do programa com possíveis valores entre 0 e 200. 
 
 1.Compilação do programa
